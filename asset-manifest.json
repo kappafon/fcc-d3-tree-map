@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fcc-d3-tree-map/static/css/main.75fac7d7.chunk.css",
+    "main.js": "/fcc-d3-tree-map/static/js/main.5a994806.chunk.js",
+    "main.js.map": "/fcc-d3-tree-map/static/js/main.5a994806.chunk.js.map",
+    "runtime-main.js": "/fcc-d3-tree-map/static/js/runtime-main.0c7409a4.js",
+    "runtime-main.js.map": "/fcc-d3-tree-map/static/js/runtime-main.0c7409a4.js.map",
+    "static/js/2.fd19e553.chunk.js": "/fcc-d3-tree-map/static/js/2.fd19e553.chunk.js",
+    "static/js/2.fd19e553.chunk.js.map": "/fcc-d3-tree-map/static/js/2.fd19e553.chunk.js.map",
+    "index.html": "/fcc-d3-tree-map/index.html",
+    "precache-manifest.498594fd90e17fb4f74d7de16ae8d14e.js": "/fcc-d3-tree-map/precache-manifest.498594fd90e17fb4f74d7de16ae8d14e.js",
+    "service-worker.js": "/fcc-d3-tree-map/service-worker.js",
+    "static/css/main.75fac7d7.chunk.css.map": "/fcc-d3-tree-map/static/css/main.75fac7d7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c7409a4.js",
+    "static/js/2.fd19e553.chunk.js",
+    "static/css/main.75fac7d7.chunk.css",
+    "static/js/main.5a994806.chunk.js"
+  ]
+}
